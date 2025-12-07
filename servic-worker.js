@@ -4,7 +4,7 @@ self.addEventListener("install", e => {
   e.waitUntil(
     caches.open(CACHE_NAME).then(c =>
       c.addAll([
-        "myhealth.html",
+        "index.html",
         "manifest.json",
         "service-worker.js"
       ])
@@ -27,3 +27,4 @@ self.addEventListener("fetch", e => {
     caches.match(e.request).then(r => r || fetch(e.request))
   );
 });
+
