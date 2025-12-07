@@ -1,0 +1,9 @@
+{
+  "name": "My Health Diary",
+  "short_name": "HealthDiary",
+  "start_url": "MyHealth.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4A6CF7",
+  "icons": []
+}
