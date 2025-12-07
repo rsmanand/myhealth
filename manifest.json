@@ -6,6 +6,6 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "rsmanand.github",
-  "start_url": "/myhealth/",
+  "start_url": "/index.html/",
   "theme_color": "#ffffff"
 }
