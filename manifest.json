@@ -6,6 +6,6 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "rsmanand.github",
-  "start_url": "/index.html/",
-  "theme_color": "#ffffff"
+  "start_url": "index.html",
+  "theme_color": "#4A6CF7"
 }
